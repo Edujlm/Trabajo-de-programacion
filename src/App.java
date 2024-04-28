@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//Eduardo Larios
+//Eduardo Jose Larios Membreño
 //2024-1651U
 public class App { 
     public static void main(String[] args) throws Exception {
