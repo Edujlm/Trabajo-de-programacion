@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+//Eduardo Larios
+//2024-1651U
 public class App { 
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");
@@ -31,6 +32,7 @@ public class App {
                 else {
                     sumadelosmasbajos= z+( x<y ? x:y);
                 }
+                    //Buscamos la diferencia entre los mas grandes
                 int diferenciadelosmasgrandes;
                 if(x>= y && x>=z){
                     diferenciadelosmasgrandes=x-(y>z ? x:z);
@@ -56,6 +58,5 @@ public class App {
  System.out.println("el numero mayor es :"+elnumeromayor);
  leer.close();
     }
-}
 }
 }
